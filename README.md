@@ -13,7 +13,7 @@ A 3rd-year student pursuing Bachelors in Computer Engineering, from Chandigarh U
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=bhaveek424&count_private=true&theme=buefy&show_icons=true" />
 
-<p align="left"> <a href="https://twitter.com/Bhaveek" target="blank"><img src="https://img.shields.io/twitter/follow/ishikakesarwan4?logo=twitter&style=for-the-badge" alt="jBhaveek" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Bhaveek" target="blank"><img src="https://img.shields.io/twitter/follow/jBhaveek?logo=twitter&style=for-the-badge" alt="jBhaveek" /></a> </p>
 
 - 📫 How to reach me **jainbhaveek.v727@protonmail.com**
 <br><br>
