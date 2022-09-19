@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Bhaveek Jain</h1>
 <h5 align="center">
-A 3rd-year student pursuing Bachelors in Computer Engineering, from Chandigarh University. I am a Crypto/Finance enthusiast and a Web developer  
+I am a Crypto/Finance enthusiast and a Web developer  
 </h5>
 
 <p>
