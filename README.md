@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Bhaveek Jain</h1>
 <h5 align="center">
-I am a Crypto/Finance enthusiast and a Web developer  
+I am a Web Developer and Crypto/Finance enthusiast. 
 </h5>
 
 <p>
