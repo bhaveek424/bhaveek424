@@ -11,7 +11,6 @@ I am a Web Developer and Crypto/Finance enthusiast.
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveek424&theme=buefy">
 <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 </p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=bhaveek424&count_private=true&theme=buefy&show_icons=true" />
 
 <p align="left"> <a href="https://twitter.com/jBhaveek" target="blank"><img src="https://img.shields.io/twitter/follow/jBhaveek?logo=twitter&style=for-the-badge" alt="jBhaveek" /></a> </p>
 
